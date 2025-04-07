@@ -6,7 +6,7 @@ Bem-vindo ao **Projeto Cordel**, uma recriação prática e responsiva do cláss
 
 ## 🔗 Link do Projeto Publicado
 
-👉 [Acesse a versão online do Projeto Cordel](https://seuusuario.github.io/projeto-cordel/)  
+👉 [Acesse a versão online do Projeto Cordel](https://wanderlywrs.github.io/projedo-cordel/)  
 (Substitua pelo seu link real do GitHub Pages)
 
 ---
