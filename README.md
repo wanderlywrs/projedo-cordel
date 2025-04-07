@@ -57,12 +57,6 @@ O poema fala, de forma crítica e bem-humorada, sobre a modernidade e os hábito
 
 ---
 
-## 📷 Screenshot
-
-![Screenshot do Projeto](#)  
-
-
----
 
 ## 🚀 Como Rodar Localmente
 
