@@ -9,7 +9,7 @@ A proposta é simples e genial: recriar um *folheto de cordel moderno* com um vi
 
 ## 🔗 Acesse o Projeto Publicado
 
-🌐 [Visualizar Projeto Cordel](https://wanderlywrs.github.io/projeto-cordel/)  
+🌐 [Visualizar Projeto Cordel](https://wanderlywrs.github.io/projedo-cordel/)  
 
 ---
 
