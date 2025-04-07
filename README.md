@@ -11,9 +11,9 @@ Bem-vindo ao **Projeto Cordel**, uma recriação prática e responsiva do cláss
 
 ---
 
-## 📦 Repositório Original do Professor
+## 📦 Repositório do Professor
 
-🌟 [Projeto Cordel - Repositório Oficial do Guanabara](https://github.com/gustavoguanabara/projeto-cordel)
+🌟 [Projeto Cordel - Repositório Oficial do Guanabara](https://github.com/gustavoguanabara/)
 
 ---
 
