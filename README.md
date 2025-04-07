@@ -1,34 +1,70 @@
-# 📜 Projeto Cordel - Curso em Vídeo
+# 📜 Projeto Cordel Moderno
 
-Bem-vindo ao **Projeto Cordel**, uma recriação prática e responsiva do clássico "Cordel Moderno", proposta no curso de **HTML5 e CSS3** do professor **Gustavo Guanabara** do [Curso em Vídeo](https://www.cursoemvideo.com/). Este projeto tem como foco a aplicação de técnicas modernas de HTML e CSS — incluindo o efeito parallax — para apresentar um conteúdo com estética tradicional e charmosa dos folhetos de cordel. 🧙‍♂️✨
+> "Um toque nordestino com o poder do HTML e CSS." – Um dev cheio de orgulho do seu progresso. 🚀
 
----
-
-## 🔗 Link do Projeto Publicado
-
-👉 [Acesse a versão online do Projeto Cordel](https://wanderlywrs.github.io/projedo-cordel/) 
+Este projeto foi desenvolvido durante o curso de **HTML5 e CSS3** do professor [Gustavo Guanabara](https://github.com/gustavoguanabara), pelo [Curso em Vídeo](https://www.cursoemvideo.com/).  
+A proposta é simples e genial: recriar um *folheto de cordel moderno* com um visual marcante, efeito parallax e responsividade impecável!
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🔗 Acesse o Projeto Publicado
 
-- ✅ **HTML5**
-- ✅ **CSS3**
-- ✅ Efeito **Parallax**
-- ✅ Design **Responsivo**
+🌐 [Visualizar Projeto Cordel](https://wanderlywrs.github.io/projeto-cordel/)  
 
 ---
 
-## 📸 Funcionalidades e Layout
+## 📂 Repositório Original (Guanabara)
 
-- 💡 Efeito parallax nas imagens de fundo para dar profundidade
-- 📱 Layout que se adapta a diferentes tamanhos de tela (responsivo)
-- ✍️ Apresentação estilizada do poema "Cordel Moderno" de Milton Duarte
-- 🎨 Tipografia e estética que remetem ao estilo tradicional nordestino
+🔗 [Repositório oficial do Projeto Cordel no GitHub](https://github.com/gustavoguanabara/projeto-cordel)
 
 ---
 
-## 🚀 Como Clonar e Rodar Localmente
+## 🧰 Tecnologias Utilizadas
+
+| 💻 Ferramenta | 💡 Função |
+|--------------|-----------|
+| HTML5 | Estrutura do conteúdo |
+| CSS3 | Estilização e efeito parallax |
+| Google Fonts | Tipografia estilizada |
+| Design Responsivo | Compatibilidade com vários dispositivos |
+
+---
+
+## 🌟 Recursos do Projeto
+
+✅ Efeito **Parallax** nas imagens de fundo  
+✅ Layout fluido e responsivo (mobile first!)  
+✅ Estilo tipográfico que remete ao cordel tradicional  
+✅ Poesia real com autoria reconhecida  
+✅ Experiência visual moderna e agradável
+
+---
+
+## 🎨 Detalhes Visuais
+
+- Fundo com imagens em camadas (parallax)
+- Texto branco com alto contraste
+- Cabeçalhos destacados
+- Rodapé estilizado com créditos poéticos
+- Sem uso de JavaScript: só HTML + CSS na veia!
+
+---
+
+## 📜 Texto do Cordel
+
+Poema "Cordel Moderno" de autoria de [Milton Duarte](https://www.recantodasletras.com.br/poesias/3186743).  
+O poema fala, de forma crítica e bem-humorada, sobre a modernidade e os hábitos tecnológicos da nossa geração.
+
+---
+
+## 📷 Screenshot
+
+![Screenshot do Projeto](caminho/para/screenshot.png)  
+*Substitua pelo caminho real da imagem no seu repositório.*
+
+---
+
+## 🚀 Como Rodar Localmente
 
 ```bash
 # Clone o repositório
@@ -38,6 +74,6 @@ git clone https://github.com/seuusuario/projeto-cordel.git
 cd projeto-cordel
 
 # Abra o arquivo HTML no navegador
-start index.html  # No Windows
-# ou
-open index.html   # No macOS
+start index.html  # Windows
+open index.html   # macOS
+xdg-open index.html  # Linux
